@@ -1,0 +1,25 @@
+body{
+    background-color:burlywood
+}
+h1{
+color: antiquewhite;
+   font-weight:bold;
+   text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 2px 780px 5px 780px;
+}
+table, table thead tr th, table tbody tr td {
+    border: 1px solid rgb(54, 51, 51);
+    border-collapse: collapse;
+}
+h3{
+    text-align:right
+}
+table, table tr th, 
+table tr td{
+    margin: 10px 760px;
+    padding: 5px;
+   }
